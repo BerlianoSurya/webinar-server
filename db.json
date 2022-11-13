@@ -1,0 +1,50 @@
+{
+    "webinar":[
+        {
+            "id": 1,
+            "judul": "webinar 1",
+            "sumber": "sumber 1",
+            "narasumber": "narasumber 1",
+            "deskripsi": "deskripsi 1",
+            "via": "via 1",
+            "link_daftar": "link_daftar 1",
+            "image": "image 1",
+            "kategori": "kategori 1",
+            "waktu": "waktu 1"
+        },
+        {
+            "id": 2,
+            "judul": "webinar 2",
+            "sumber": "sumber 2",
+            "narasumber": "narasumber 2",
+            "deskripsi": "deskripsi 2",
+            "via": "via 2",
+            "link_daftar": "link_daftar 2",
+            "image": "image 2",
+            "kategori": "kategori 2",
+            "waktu": "waktu 2"
+        }
+    ],
+    "podcast": [
+        {
+            "id": 1,
+            "judul": "podcast 1",
+            "sumber": "sumber 1",
+            "narasumber": "narasumber 1",
+            "deskripsi": "deskripsi 1",
+            "link": "link 1",
+            "image": "image 1",
+            "kategori": "kategori 1"
+        },
+        {
+            "id": 2,
+            "judul": "podcast 2",
+            "sumber": "sumber 2",
+            "narasumber": "narasumber 2",
+            "deskripsi": "deskripsi 2",
+            "link": "link 2",
+            "image": "image 2",
+            "kategori": "kategori 2"
+        }
+    ]
+}
