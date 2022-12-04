@@ -74,23 +74,69 @@
   "podcast": [
     {
       "id": 1,
-      "judul": "podcast 1",
-      "sumber": "sumber 1",
-      "narasumber": "narasumber 1",
-      "deskripsi": "deskripsi 1",
-      "link": "link 1",
-      "image": "image 1",
-      "kategori": "kategori 1"
+      "judul": "6 Langkah Membangun Bisnis Online Dari Nol",
+      "sumber": "Spotify",
+      "narasumber": "Denny Santoso",
+      "deskripsi": "Di podcast ini saya membahas 6 langkah membangun bisnis online dari nol untuk pemula dengan menggunakan digital marketing. Saya menjelaskan bagaimana pemikiran dan kerangka untuk memulai bisnis online dengan lengkap. Walaupun lengkap, tentunya yang paling penting adalah Anda harus take action!",
+      "link": "https://open.spotify.com/episode/2CSQrIqgzMuouaakadjg8q",
+      "image": "https://i.scdn.co/image/36ede79ab2327b68cece8a60a16f608fe4f532e5",
+      "kategori": "Digital marketing",
+      "like": []
     },
     {
       "id": 2,
-      "judul": "podcast 2",
-      "sumber": "sumber 2",
-      "narasumber": "narasumber 2",
-      "deskripsi": "deskripsi 2",
-      "link": "link 2",
-      "image": "image 2",
-      "kategori": "kategori 2"
+      "judul": "Jangan Pelit Sama Hidup, What You Want Beda Dengan What You Need feat. Eko Priharseno",
+      "sumber": "Youtube",
+      "narasumber": "Fellexandro Ruby & Eko Priharseno",
+      "deskripsi": "Pernah denger ga kalo bentuk privilege yang lain itu adalah problem. Problem jadi privilege? @priharseno punya pandangan yang unik tentang ini. Dan ga cuma itu, pria yang dulunya mahasiswa rebel ini, sekarang jadi desainer interior yang ngurusin mebel. Satu lagi, dia juga sangat care dengan klien-kliennya. Bagi dia, design can change how we live.",
+      "link": "https://www.youtube.com/watch?v=3QSIFxZiMno",
+      "image": "https://i.ytimg.com/vi/3QSIFxZiMno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqmy5l-GZZpgUazr-NxfsoIGrBPw",
+      "kategori": "Leadership",
+      "like": []
+    },
+    {
+      "id": 3,
+      "judul": "Google Public Speaking Trainer on 3 Steps to Overcome Perfectionism",
+      "sumber": "Youtube",
+      "narasumber": "Lindsay McMahon & Don C",
+      "deskripsi": "You'll meet Don Colliver, a former clown, and former Blue Man performing artist who now trains Fortune 500 professionals on public speaking. Don will show you the 3-step framework that you can follow when you make a mistake at work so that you don't lose your momentum in business and potential for connection with your audience.",
+      "link": "https://www.youtube.com/watch?v=U2lHBczvo8E",
+      "image": "https://i.ytimg.com/vi/U2lHBczvo8E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu3FClsvbCUnp10J7GvXCmSa_V6g",
+      "kategori": "Public speaking",
+      "like": []
+    },
+    {
+      "id": 4,
+      "judul": "Digital Marketing For Newbie",
+      "sumber": "Spotify",
+      "narasumber": "Imre Nagi",
+      "deskripsi": "Kali ini kita kedatangan temen gw, Andri, Product Marketing dari salah satu Tech Company terkemuka di Indonesia. Gw dan Andri bakalan cerita-cerita tentang pengetahuan dasar tentang Digital Marketing dan tips dan trik untuk menjadi seorang Product Marketer yang oke.",
+      "link": "https://open.spotify.com/episode/2qLUK9yQgljywA0zS94GuW",
+      "image": "https://i.scdn.co/image/91e0988ab9c54a0896bc4fe480de81f9f0c1a448",
+      "kategori": "Digital marketing",
+      "like": []
+    },
+    {
+      "id": 5,
+      "judul": "Love Healing",
+      "sumber": "Spotify",
+      "narasumber": "Dinar Wulandari",
+      "deskripsi": "Membangun hubungan percintaaan yang harmonis dan romantis untukmu yang sering mengalami kegagalan dalam hal percintaan",
+      "link": "https://open.spotify.com/episode/4HtFqCaxYPn5gyczgdLH1f",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a91dea452a7625808c198ee1b",
+      "kategori": "Psikologi",
+      "like": []
+    },
+    {
+      "id": 6,
+      "judul": "Mekanisme Pertahanan Diri (Defense Mechanism)",
+      "sumber": "Spotify",
+      "narasumber": "Dinar Wulandari",
+      "deskripsi": "Ego berusaha melindungi diri kita dari perasaan terluka dan kecemasan. Cara ego untuk melindungi diri biasa disebut dengan mekanisme pertahanan diri. Namun terkadang, ada beberapa cara ego melindungi diri yang kurang sehat dan perlu dievaluasi kembali. Yuk, kenali macam-macam mekansime pertahanan diri!.",
+      "link": "https://open.spotify.com/episode/1ywxArtNrjmGbBF5L5gygR",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a760a3a1e3ede12c0321783d2",
+      "kategori": "Psikologi",
+      "like": []
     }
   ]
 }
